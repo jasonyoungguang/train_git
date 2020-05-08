@@ -2,3 +2,5 @@
 训练git技能demo
 
 A
+
+B
